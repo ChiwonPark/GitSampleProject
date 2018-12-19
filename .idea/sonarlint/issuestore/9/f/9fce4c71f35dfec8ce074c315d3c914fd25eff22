@@ -1,0 +1,6 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çºÀœ8Í¬Êªú,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ‡¹™þÿÿÿÿ8Í¬Êªú,
+]squid:UselessImportCheck"4Remove this unused import 'android.util.TypedValue'.(é¸Óû8Í¬Êªú,
+bsquid:UselessImportCheck"9Remove this unused import 'android.text.style.StyleSpan'.(ÁÞÕ™8Í¬Êªú,
+ksquid:UselessImportCheck"BRemove this unused import 'android.text.style.TextAppearanceSpan'.(í•‹8Í¬Êªú,
